@@ -1,0 +1,21 @@
+{
+  "name": "newyearcelebration",
+  "version": "1.0.0",
+  "description": "shering message to celebrate the new year 2023",
+  "scripts": {
+    "start": "node js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeluvRose/NewYearCelebration.git"
+  },
+  "author": "Jinskim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MeluvRose/NewYearCelebration/issues"
+  },
+  "homepage": "https://github.com/MeluvRose/NewYearCelebration#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
